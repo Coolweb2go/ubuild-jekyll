@@ -1,5 +1,8 @@
 ---
 main:
+- url: https://californiaphotosafaris.com/
+  weight: 3
+  title: Contact
 - identifier: home
   url: "/"
   weight: 1
